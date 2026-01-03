@@ -40,7 +40,7 @@ Frontend: HTML / CSS / JavaScript
 ### Option 1: Run Locally (Web App)
 
 1. Clone the repository:
-```git clone https://github.com/your-username/ccna-quiz-app.git```
+```https://github.com/Mhd-gb95/CCNA-Quizz-App.git```
 2. Open the project folder
 3. Open index.html in your web browser
 
